@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "     dfdfdfd"
+
 echo "welcome to devops practice"
 
 echo " GitHub Jenkins Trigger Test"
